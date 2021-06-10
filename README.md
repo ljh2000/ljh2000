@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+* 📚 Undergraduate student of Shanghai Jiaotong University
+* 🏫 School of Cyber Science and Engineering.
+* 😄 Now an intern at KeenLab.
+* 💻 A former OIer.
+* 📧 Contact me at ljh2000@sjtu.edu.cn
 <!--
 **ljh2000/ljh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
