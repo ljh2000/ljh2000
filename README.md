@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-* 📚 Undergraduate student of Shanghai Jiaotong University
+* 📚 Undergraduate of Shanghai Jiaotong University
 * 🏫 School of Cyber Science and Engineering.
 * 😄 Now an intern at KeenLab.
 * 💻 A former OIer.
