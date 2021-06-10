@@ -4,6 +4,9 @@
 * 😄 Now an intern at KeenLab.
 * 💻 A former OIer.
 * 📧 Contact me at ljh2000@sjtu.edu.cn
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ljh2000&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **ljh2000/ljh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
