@@ -4,7 +4,8 @@
 
 * 📚 Junior of Shanghai Jiaotong University
 * 🏫 School of Cyber Science and Engineering.
-* 😄 Now an intern at KeenLab.
+* 🔭 I’m currently working in Keen Security Lab of Tencent as an intern.
+* 😄 I’m currently learning vulnerability discovery and reverse.
 * 💻 A former OIer.
 * 📧 Contact me at ljh2000@sjtu.edu.cn
 
