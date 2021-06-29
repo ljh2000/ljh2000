@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-* 📚 Junior of Shanghai Jiaotong University
+* 📚 Junior of Shanghai Jiao Tong University
 * 🏫 School of Cyber Science and Engineering.
 * 🔭 I’m currently working in Keen Security Lab of Tencent as an intern.
 * 😄 I’m currently learning vulnerability discovery and reverse.
