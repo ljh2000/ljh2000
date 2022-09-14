@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-* 📚 Senior of Shanghai Jiao Tong University
+* 📚 Currently a master’s student in Shanghai Jiao Tong University
 * 🏫 School of Cyber Science and Engineering.
 * 🔭 I’m currently working in Keen Security Lab of Tencent as an intern.
 * 😄 I’m currently learning deep learning(Multi-label Classification) and vulnerability discovery.
